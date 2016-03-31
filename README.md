@@ -1,6 +1,6 @@
 #WeChatAI
 ##关于
-WeChatAI是一个微信托管程序，抑或是一个聊天机器人。
+WeChatAI是一个微信托管程序，亦或是一个聊天机器人。
 ##流程
 ![流程图](WeChatAI.png)
 
